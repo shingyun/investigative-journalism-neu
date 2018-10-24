@@ -1,0 +1,67 @@
+* {
+	padding: 0;
+	margin: 0;
+	position: relative;
+}
+
+body {
+	font-family: 'PT Serif', serif;
+	color: #4D4745;
+}
+
+/*Fonts*/
+
+#logo {
+
+	color: #89393B;
+	font-size: 20px;
+}
+
+#header-btns, #btn3, .authors {
+	font-family: 'Open Sans', sans-serif;
+}
+
+header, #content {
+	width: 100%;
+}
+
+header {
+	padding: 30px 0px;
+	background-color: white;
+	margin-bottom: 50px;
+}
+
+#header-wrap, .course {
+	width: 70%;
+	margin: auto;
+}
+
+.header-elmt, .header-btn {
+	display: inline-block;
+}
+
+#header-btns {
+	margin-left: 50%;
+}
+
+.header-btn {
+	margin: 0px 4px;
+	padding: 2px 0px;
+	font-size: 18px;
+}
+
+
+
+#btn1 a:hover {
+	opacity: 0.7;
+	cursor: pointer;
+}
+
+
+#btn2 a:hover {
+	opacity: 0.7;
+	cursor: pointer;	
+}
+
+
+

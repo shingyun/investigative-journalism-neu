@@ -1,0 +1,45 @@
+#btn1 a {
+	text-decoration: none;
+	color: #CC5658;
+	border-bottom: solid 1.5px;
+}
+
+#btn2 a {
+	text-decoration: none;
+	color: #AAAAAA;
+}
+
+
+.course-name {
+	padding: 15px 0px;
+	text-align: center;
+}
+
+.des p {
+	font-size: 16px;
+	line-height: 25px;
+	color: #666666;
+}
+
+.articles {
+    font-size: 0px;
+    height: initial;
+    width: 100%;
+    margin: 30px 0px;
+}
+
+.article {
+	text-decoration: none;
+	font-size: initial;
+	width: 48%;
+	height: 300px;
+	color: #222222;
+	background-color: #CCCCCC;
+	display: inline-block; 
+	margin: 2px 2px;
+}
+
+.article a {
+	text-decoration: none;
+}
+
